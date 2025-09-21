@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Your secret Telegram Bot Token
-TELEGRAM_TOKEN = "YOUR_HTTP_API_TOKEN" 
+TELEGRAM_TOKEN = "7211938478:AAFIZ9GTet7K7vr_QnnQaP9Gf-6s4hOHSvA" 
 
 # Telegram's maximum file size for bots is 50 MB
 MAX_FILE_SIZE_BYTES = 50 * 1024 * 1024
